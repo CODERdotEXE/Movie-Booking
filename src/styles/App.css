@@ -1,0 +1,46 @@
+.container {
+  margin-top: 50px;
+}
+
+.show-card {
+  height: 100%;
+}
+
+.show-card img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.show-card .card-title {
+  margin-top: 10px;
+}
+
+.show-card .card-text {
+  
+  overflow: hidden;
+}
+
+.show-card .btn-primary {
+  margin-top: 10px;
+}
+
+.summary-container {
+  margin-top: 50px;
+}
+
+.summary-container .btn-primary {
+  margin-top: 10px;
+}
+
+.book-container {
+  margin-top: 50px;
+  max-width: 400px;
+}
+
+.book-container .form-label {
+  margin-bottom: 5px;
+}
+
+.book-container button[type="submit"] {
+  margin-top: 10px;
+}
