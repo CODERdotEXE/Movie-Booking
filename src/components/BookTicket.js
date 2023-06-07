@@ -44,7 +44,7 @@ function BookTicket() {
         <div className="card-body">
           <h5 className="card-title">Show : {show.name}</h5>
           <p className="card-text">Language : {show.language}</p>
-          <p className="card-text">Premired : {show.premired}</p>
+          <p className="card-text">Premiered : {show.premiered}</p>
 
     
           <form onSubmit={handleSubmit}>
