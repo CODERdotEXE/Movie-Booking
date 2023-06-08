@@ -8,25 +8,25 @@ This is a React JS application that displays a list of TV shows and allows users
 1. Clone the repository to your local machine:
 
 
-git clone https://github.com/your-username/tv-shows-app.git
+`git clone https://github.com/CODERdotEXE/tv-shows-app.git`
 
 2. Navigate to the project directory:
 
 
-cd tv-shows-app
+`cd tv-shows-app`
 
 
 3. Install the dependencies:
 
 
-npm install
+`npm install`
 
 ## Usage
 
 1. Start the development server:
 
 
-npm start
+`npm start`
 
 
 2. Open your web browser and visit `http://localhost:3000` to access the application.
